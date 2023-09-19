@@ -4,10 +4,10 @@ export const Header = (props) => {
   return (
     <header id='header'>
       <div className='intro'>
-        <ParticlesBg type="circle" bg={{zIndex: 0, position:"absolute", top:0}} />
+        <ParticlesBg type="circle" bg={{ zIndex: 0, position: "absolute", top: 0 }} />
         <div className='overlay'>
           <div className='container'>
-          
+
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
@@ -16,7 +16,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='https://github.com/sbk2k1/mnemosyne'
+                  href='https://github.com/sbk2k1/SOWS'
                   className='btn btn-custom btn-lg page-scroll'
                   target="_blank"
                 >
