@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll hover ' href='#page-top'>
-            Mnemosyne
+            SOWS
           </a>{' '}
         </div>
 
@@ -40,7 +40,7 @@ export const Navigation = (props) => {
                 Donate
               </a>
             </li>
-            
+
           </ul>
         </div>
       </div>
