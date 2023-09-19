@@ -1,0 +1,44 @@
+{
+    "Header": {
+
+        "title": "Welcome to SOWS",
+        "paragraph": "Welcome to SOWS, an app designed to control CS characters using music literature. Press the button below to download the Alpha realease of SOWS."
+
+    },
+    "About": {
+        "paragraph": "Hello guys, I'm SBK and I enjoy creating, whatever it may be. I started my Dev journey in late 2020 and early 2021 and have been absolutely stoked with it at the time. I freelance for Web Development and am looking for opportunities in Machine Learning and Data Science. I have a passion for learning whatever new technology I lay my eyes on.",
+        "Why": [
+            "NodeJS",
+            "ReactJS",
+            "NextJS",
+            "HTML/CSS"
+        ],
+        "Why2": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "JAVA"
+        ]
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Change Drivers.",
+            "text": "Change drivers to handle various instruments."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Easy Recognition.",
+            "text": "Any note is easily recognized."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Test your working.",
+            "text": "Test detection of notes/signal using in-app features."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Zero Distraction",
+            "text": "SOWS jumps to System Tray. So forget about it and put all your focus on getting good."
+        }
+    ]
+}
